@@ -13,12 +13,19 @@ Be sure to set the nessus path in get_vulns.py beforehand
 
 ------------------------------------------------------------------------------------------------------------------------------
 Issue Title: MS15-082: Vulnerability in RDP Could Allow Remote Code Execution (3080348)
+
 Filename: smb_nt_ms15-082.nasl
+
 Exploit Type: local
+
 Public Exploit: No known exploits are available
+
 File Extracted: aaclient.dll
+
 Installed Version: 6.1.7600.16385
+
 Fixed Version: 6.1.7600.17233
+
 ------------------------------------------------------------------------------------------------------------------------------
 Issue Title: MS14-074: Vulnerability in Remote Desktop Protocol Could Allow Security Feature Bypass (3003743)
 Filename: smb_nt_ms14-074.nasl

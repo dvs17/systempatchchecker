@@ -28,20 +28,30 @@ Fixed Version: 6.1.7600.17233
 
 ------------------------------------------------------------------------------------------------------------------------------
 Issue Title: MS14-074: Vulnerability in Remote Desktop Protocol Could Allow Security Feature Bypass (3003743)
+
 Filename: smb_nt_ms14-074.nasl
+
 Exploit Type: local
+
 Public Exploit: No known exploits are available
+
 File Extracted: adtschema.dll
+
 Installed Version: 6.1.7600.16385
+
 Fixed Version: 6.1.7601.18637
+
 ------------------------------------------------------------------------------------------------------------------------------
 Issue Title: MS14-074: Vulnerability in Remote Desktop Protocol Could Allow Security Feature Bypass (3003743)
+
 Filename: smb_nt_ms14-074.nasl
+
 Exploit Type: local
 Public Exploit: No known exploits are available
 File Extracted: Adtschema.dll
 Installed Version: 6.1.7600.16385
 Fixed Version: 6.1.7601.18637
+
 ------------------------------------------------------------------------------------------------------------------------------
 Issue Title: MS16-007: Security Update for Microsoft Windows to Address Remote Code Execution (3124901)
 Filename: smb_nt_ms16-007.nasl

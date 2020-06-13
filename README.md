@@ -1,5 +1,5 @@
 # systempatchchecker
-Checks a set of files on Windows against nessus plugins
+Enumerates a set of files and versions on Windows and checks against nessus plugins
 
 Inspired by windows_exploit_suggester(https://github.com/AonCyberLabs/Windows-Exploit-Suggester) and Sherlock (https://github.com/rasta-mouse/Sherlock)
 

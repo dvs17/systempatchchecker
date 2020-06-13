@@ -73,12 +73,19 @@ Fixed Version: 6.1.7601.19091
 
 ------------------------------------------------------------------------------------------------------------------------------
 Issue Title: MS16-007: Security Update for Microsoft Windows to Address Remote Code Execution (3124901)
+
 Filename: smb_nt_ms16-007.nasl
+
 Exploit Type: local
+
 Public Exploit: Exploits are available
+
 File Extracted: advapi32.dll
+
 Installed Version: 6.1.7600.16385
+
 Fixed Version: 6.1.7601.19091
+
 ------------------------------------------------------------------------------------------------------------------------------
 Issue Title: MS16-014: Security Update for Microsoft Windows to Address Remote Code Execution (3134228)
 

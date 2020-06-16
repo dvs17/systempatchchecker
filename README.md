@@ -9,6 +9,9 @@ Copy file over and run "python3.8 get_vulns.py microsoftupdates.txt"
 
 Be sure to set the nessus path in get_vulns.py beforehand
 
+# Update
+17/06/2020	Checks agaisnt associated plugins rather than entire plugin list
+
 # Example Output
 
 ------------------------------------------------------------------------------------------------------------------------------

@@ -27,6 +27,8 @@ optional arguments:
 ```
 ## Example full output
 ```
+root@[<Fri Feb 31> 25:13:15]#> python3.8 get_vulns.py -r ../win7 -f
+
 ------------------------------------------------------------------------------------------------------------------------------
 Issue Title: MS15-082: Vulnerability in RDP Could Allow Remote Code Execution (3080348)
 

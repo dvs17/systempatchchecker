@@ -1,5 +1,5 @@
 # systempatchchecker
-Enumerates a set of files and versions on Windows and checks against nessus plugins
+## Enumerates a set of files and versions on Windows and checks against nessus plugins
 
 Inspired by windows_exploit_suggester(https://github.com/AonCyberLabs/Windows-Exploit-Suggester) and Sherlock (https://github.com/rasta-mouse/Sherlock)
 
@@ -9,11 +9,23 @@ Copy file over and run "python3.8 get_vulns.py microsoftupdates.txt"
 
 Be sure to set the nessus path in get_vulns.py beforehand
 
-# Update
+## Update
 17/06/2020	Checks against associated plugins rather than entire plugin list
+03/07/2020 Added flags for full, public exploits and msf exploits
 
-# Example Output
+## Example Usage
+```
+usage: get_vulnsx1.py [-h] [-f] [-p] [-m] [-r READ]
 
+optional arguments:
+  -h, --help            show this help message and exit
+  -f, --full            Get All Issues
+  -p, --pub             Get Issues with publically available exploits
+  -m, --msf             Get Issues with exploits on Metasploit
+  -r READ, --read READ  File to be read from extract_version.ps1 output
+```
+## Example full output
+```
 ------------------------------------------------------------------------------------------------------------------------------
 Issue Title: MS15-082: Vulnerability in RDP Could Allow Remote Code Execution (3080348)
 
@@ -135,6 +147,6 @@ Installed Version: 6.1.7600.16385
 Fixed Version: 6.1.7600.16937
 
 ------------------------------------------------------------------------------------------------------------------------------
-
+```
 
 

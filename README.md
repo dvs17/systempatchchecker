@@ -11,6 +11,7 @@ Be sure to set the nessus path in get_vulns.py beforehand
 
 ## Update
 17/06/2020	Checks against associated plugins rather than entire plugin list
+
 03/07/2020 Added flags for full, public exploits and msf exploits
 
 ## Example Usage

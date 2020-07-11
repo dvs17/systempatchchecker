@@ -16,7 +16,7 @@ Be sure to set the nessus path in get_vulns.py beforehand
 
 ## Example Usage
 ```
-usage: get_vulnsx1.py [-h] [-f] [-p] [-m] [-r READ]
+usage: get_vulns1.py [-h] [-f] [-p] [-m] [-r READ]
 
 optional arguments:
   -h, --help            show this help message and exit

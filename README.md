@@ -16,6 +16,8 @@ Be sure to set the nessus path in get_vulns.py beforehand
 
 ## Example Usage
 ```
+powershell -exec bypass "iex (new-object net.webclient).downloadstring('https://raw.githubusercontent.com/dvs17/systempatchchecker/master/extract_version.ps1')"
+
 usage: get_vulns1.py [-h] [-f] [-p] [-m] [-r READ]
 
 optional arguments:
